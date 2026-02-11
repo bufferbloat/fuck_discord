@@ -1,0 +1,10 @@
+great software
+> Discord likes to set its own priority to high when streaming. This program checks if any of discord processes is not on normal and sets it to normal.
+
+### Changes:
+
+* 64-bit
+* Console hidden by default, toggle ctrl+alt+m
+* -no-console command-line flag for background mode
+* minor changes related to process handling
+
